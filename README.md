@@ -1,6 +1,7 @@
 <h1 align="center">
-📄<br>README Template
+📄<br>Repositório
 </h1>
+<p align="center">Repositório inicial de pequenos blocos com estilização</p>
 
 ## Selecione o README que deseja usar
 
